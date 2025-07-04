@@ -20,8 +20,8 @@ It was built as part of a technical assignment during my SEO Developer Internshi
 - Ready for form submission and user data storage  
 
 ---
-```
 ## 📂 File Structure
+```
 flask\_app/
 ├── app.py                # Main Flask app
 ├── requirements.txt      # Project dependencies
@@ -124,10 +124,3 @@ flask shell
 ## 📄 License
 
 This project was created for educational purposes during an SEO Developer Internship and is open for use or modification.
-
-```
-
----
-
-✅ You can paste this straight into your `README.md` file. Let me know if you want to add badges, a project screenshot, or a "live preview" link.
-```
