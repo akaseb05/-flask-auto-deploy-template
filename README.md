@@ -32,9 +32,6 @@ flask\_app/
 └── style.css         # CSS styling
 ```
 
-````
-
----
 
 ## 🚀 How to Run Locally
 
@@ -42,7 +39,7 @@ flask\_app/
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
    cd YOUR_REPO_NAME
-````
+```
 
 2. **(Optional) Create a virtual environment**
 
