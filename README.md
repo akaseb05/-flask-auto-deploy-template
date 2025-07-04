@@ -34,7 +34,6 @@ flask\_app/
 
 ```
 
----
 
 ## 🚀 How to Run Locally
 
