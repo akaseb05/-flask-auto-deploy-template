@@ -1,7 +1,3 @@
-Here’s the cleaned-up, properly formatted `README.md` with boxes, spacing, and markdown syntax fixed — **no content changes**, just better structure:
-
----
-
 ```markdown
 # flask-auto-deploy-template
 
