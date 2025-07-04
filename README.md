@@ -1,4 +1,3 @@
-```
 # flask-auto-deploy-template
 
 A simple Flask web app with GitHub auto-deployment to PythonAnywhere, built as part of an SEO Developer Internship assignment. Includes database integration using SQLAlchemy and supports automatic updates via webhook.
@@ -21,7 +20,7 @@ It was built as part of a technical assignment during my SEO Developer Internshi
 - Ready for form submission and user data storage  
 
 ---
-
+```
 ## 📂 File Structure
 flask\_app/
 ├── app.py                # Main Flask app
