@@ -23,6 +23,15 @@ It was built as part of a technical assignment during my SEO Developer Internshi
 
 ## 📂 File Structure
 
+flask\_app/
+├── app.py                # Main Flask app
+├── requirements.txt      # Project dependencies
+├── site.db               # SQLite database (auto-generated)
+├── templates/
+│   └── index.html        # HTML for homepage
+└── static/
+└── style.css         # CSS styling
+
 ```
 
 flask\_app/
