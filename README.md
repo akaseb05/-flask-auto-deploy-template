@@ -34,14 +34,7 @@ flask\_app/
 
 ```
 
-flask\_app/
-├── app.py                # Main Flask app
-├── requirements.txt      # Project dependencies
-├── site.db               # SQLite database (auto-generated)
-├── templates/
-│   └── index.html        # HTML for homepage
-└── static/
-└── style.css         # CSS styling
+
 
 ````
 
@@ -133,5 +126,3 @@ flask shell
 ## 📄 License
 
 This project was created for educational purposes during an SEO Developer Internship and is open for use or modification.
-
-```
